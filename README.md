@@ -22,10 +22,3 @@ A simple and efficient tracker that monitors and visualizes the cost usage of La
 - **APIs:** OpenAI / Other LLM providers
 
 ---
-
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/narmadha-17/LLM-Tool-Cost-Tracker.git
-   cd LLM-Tool-Cost-Tracker
